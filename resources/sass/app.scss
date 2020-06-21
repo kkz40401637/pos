@@ -1,0 +1,19 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+@import"~admin-lte/plugins/font-awesome/css/font-awesome.min.css";
+
+//Admin-Lte
+@import '~admin-lte/dist/css/adminlte.min.css'; 
+
+@import '~sweetalert2/src/variables';
+
+$swal2-background: rgba(0,0,0,.03);
+
+@import '~sweetalert2/src/sweetalert2';
